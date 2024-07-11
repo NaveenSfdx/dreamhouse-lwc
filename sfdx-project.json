@@ -12,7 +12,7 @@
    "sfdcLoginUrl": "https://login.salesforce.com",
    "sourceApiVersion": "61.0",
    "packageAliases": {
-   "dreamhouse": "08cdM0000000TZtQAM",
-   "dreamhouse@1.0.0-1": "04tdM0000002eCfQAI"
+   "dreamhouse": "08cdM0000000TWfQAM",
+   "dreamhouse@1.0.0-1": "04tdM0000002e9RQAQ"
 }
 }
